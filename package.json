@@ -1,0 +1,23 @@
+{
+  "name": "spa-with-vanillajs",
+  "version": "1.0.0",
+  "description": "바닐라JS로 싱글 SPA구현하기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoo-su/SPA-with-VanillaJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoo-su/SPA-with-VanillaJS/issues"
+  },
+  "homepage": "https://github.com/Yoo-su/SPA-with-VanillaJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
